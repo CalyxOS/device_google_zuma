@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ca157fb_4c7091d0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-11-09T17:13:43Z",
+      "side": 1,
+      "message": "Just checked against stock and these permissions are not present.",
+      "revId": "f23c1538b17ebc53263d0403cfdc87f01b4a925a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
