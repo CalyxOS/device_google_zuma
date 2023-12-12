@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef238d06_c3113386",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-12-12T10:11:46Z",
+      "side": 1,
+      "message": "husky reports L1 in DRM info app",
+      "revId": "45ca716c22c906ed7d7587e80d3d869323e90342",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
