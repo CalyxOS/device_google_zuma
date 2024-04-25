@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64e421b3_2bd3cd78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-04-25T14:45:40Z",
+      "side": 1,
+      "message": "Worked on shiba userdebug build",
+      "revId": "1c52c3879934975a072a4435a1fcaeabb9d5695f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
