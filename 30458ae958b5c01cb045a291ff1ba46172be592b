@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8f930c0_d67a1b62",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-04-30T00:04:05Z",
+      "side": 1,
+      "message": "You can make this a revert of https://gitlab.com/CalyxOS/device_google_zuma/-/commit/94f1676669eb1c4fecb3bff063a66449b98c3f7f and the same for gs101/gs201",
+      "revId": "30458ae958b5c01cb045a291ff1ba46172be592b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
